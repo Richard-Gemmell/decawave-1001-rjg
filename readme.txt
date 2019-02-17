@@ -28,4 +28,4 @@ From Live PyPi
     sudo pip3 install decawave-1001-rjg
 
 From Test PyPi
-    sudo pip3 --index-url https://test.pypi.org/simple/ decawave-1001-rjg
+    sudo pip3 install --index-url https://test.pypi.org/simple/ decawave-1001-rjg
