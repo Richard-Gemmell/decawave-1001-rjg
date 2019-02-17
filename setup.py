@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="decawave-1001-rjg",
-    version="0.9.0",
+    version="1.0",
     author="Richard Gemmell",
     author_email="16683467+Richard-Gemmell@users.noreply.github.com",
     description="A python module to enable a Raspberry Pi to read the Decawave 1001 UWB positioning module.",

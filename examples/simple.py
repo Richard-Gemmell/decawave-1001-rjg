@@ -1,8 +1,7 @@
 import sys, os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from decawave_1001_rjg.messages.dwm_location_response import DwmLocationResponse
-from decawave_1001_rjg import Decawave1001Driver
+from decawave_1001_rjg import Decawave1001Driver, DwmLocationResponse
 
 
 class Simple:
